@@ -1,0 +1,7 @@
+{
+  "name": "kobong",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
